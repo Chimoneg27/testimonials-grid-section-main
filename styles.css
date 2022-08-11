@@ -110,7 +110,7 @@ ul{
         margin: 0 auto;
         display: grid;
         grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(8, 240px);
+        grid-template-rows: repeat(8, 250px);
         gap: 25px;
         position: relative;
         margin-top: 70px;
