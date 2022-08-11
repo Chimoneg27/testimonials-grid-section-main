@@ -13,8 +13,13 @@
 }
 
 body{
-background-color: hsla(208, 46%, 93%, 0.986);
-font-family: "Barlow Semi Condensed";
+    min-height: 100vh;
+    background-color: hsla(208, 46%, 93%, 0.986);
+    font-family: "Barlow Semi Condensed";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .container{
