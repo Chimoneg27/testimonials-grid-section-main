@@ -111,7 +111,7 @@ ul{
 @media (max-width: 500px){
     .container{
         width:85%;
-        height: 1500px;
+        height: 1700px;
         margin: 0 auto;
         display: grid;
         grid-template-columns: repeat(1, 1fr);
